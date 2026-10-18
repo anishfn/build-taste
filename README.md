@@ -3,7 +3,7 @@
 A skill by [Anish](https://anishfn.ink) for design engineers. It opens a canvas on your machine where you save screenshots, links and notes, and say why each one works. Everything is kept in your project, and your coding agent turns it into a taste skill it follows when it builds.
 
 ```bash
-npx skills add anishfn/build-taste -g
+npx skills add anishfn/build-taste
 ```
 
 Then ask your agent: **"Use Build Taste in this project."**
